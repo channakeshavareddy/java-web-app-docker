@@ -1,4 +1,4 @@
-package com.rst.helloworld.service;
+package com.rst.helloREDDY.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
