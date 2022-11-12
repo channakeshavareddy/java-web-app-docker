@@ -54,7 +54,7 @@
 			</p>
 		</div>
 		<div class="col-md-4">
-			<h2>Channakeshavareddy</h2>
+			<h2>Channakeshava</h2>
 			<p>ABC</p>
 			<p>
 				<a class="btn btn-default" href="#" role="button">View details</a>
@@ -65,7 +65,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; ChannakeshavReddy</p>
+		<p>&copy; Channakeshava</p>
 	</footer>
 </div>
 
